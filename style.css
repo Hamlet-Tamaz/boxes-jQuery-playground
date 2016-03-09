@@ -41,3 +41,8 @@
 .boxType3 {
   background: blue;
 }
+
+.dog {
+  background-image: url('https://jspwiki-wiki.apache.org/attach/Slimbox/doggy.bmp');
+  background-size: 100%;
+}
